@@ -60,7 +60,6 @@
       "babel-runtime": "npm:babel-runtime@^5.4.3",
       "core-js": "npm:core-js@^0.9.10",
       "traceur": "github:jmcriffey/bower-traceur@0.0.88",
-      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88",
       "typescript": "github:mhegazy/typescript@v1.5-beta2"
     }
   }
