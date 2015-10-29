@@ -52,14 +52,12 @@
       "angular2": "npm:angular2@^2.0.0-alpha.44",
       "es6-shim": "npm:es6-shim@^0.33.6",
       "mhegazy/typescript": "github:mhegazy/typescript@^1.5.0-alpha",
-      "reflect-metadata": "npm:reflect-metadata@^0.1.2",
-      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@^0.0.92"
+      "reflect-metadata": "npm:reflect-metadata@^0.1.2"
     },
     "devDependencies": {
-      "babel": "npm:babel-core@^5.8.25",
-      "babel-runtime": "npm:babel-runtime@^5.8.25",
       "core-js": "npm:core-js@^1.2.2",
-      "traceur": "github:jmcriffey/bower-traceur@^0.0.92",
+      "traceur": "github:jmcriffey/bower-traceur@0.0.92",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92",
       "typescript": "github:mhegazy/typescript@^1.5.0-alpha"
     }
   }
